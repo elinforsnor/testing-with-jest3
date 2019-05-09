@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/elinforsnor/testing-with-jest3/issues"
   },
-  "homepage": "https://github.com/elinforsnor/testing-with-jest3#readme"
+  "homepage": "https://github.com/elinforsnor/testing-with-jest3#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
 }
