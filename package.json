@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest3",
+  "version": "1.0.0",
+  "description": "npm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elinforsnor/testing-with-jest3.git"
+  },
+  "author": "Elin Forsnor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elinforsnor/testing-with-jest3/issues"
+  },
+  "homepage": "https://github.com/elinforsnor/testing-with-jest3#readme"
+}
